@@ -18,6 +18,10 @@
 		{
 			"Name": "WaterExtras",
 			"Enabled": true
+		},
+		{
+			"Name": "DatasmithFBXImporter",
+			"Enabled": true
 		}
 	]
 }
